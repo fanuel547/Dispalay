@@ -1,0 +1,135 @@
+
+html{
+    position: relative;
+}
+
+div{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+section{
+    position: relative;
+    background-color: lightgreen;
+    padding: 40px;
+    width: 500px;
+}
+
+.frames{
+    position: absolute;
+    background-color: yellow;
+    height: 70px;
+    width: 85px;
+    top: 6%;
+}
+
+.framesmedium{
+    position: absolute;
+    background-color: yellow;
+    height: 35px;
+    width: 85px;
+    top: 6%;
+}
+
+.frames75{
+    position: absolute;
+    background-color: yellow;
+    height: 55px;
+    width: 85px;
+    top: 6%;
+}
+
+#frame3{
+    right: 50%;
+}
+
+#frame2{
+    transform: translate(82%);
+}
+
+#frame1{
+    right: 83%; 
+}
+
+#frame4{
+    left:50%;
+} 
+
+#frame5{
+    transform: translate(408%);
+}
+
+#frame6{
+    left:83%;
+}
+
+
+#frame7{
+    left:26%;
+}
+
+#frame8{
+    transform: translate(-50%);
+    left: 50%;
+}
+
+#frame9{
+    right:26%;
+}
+
+#frame10{
+  
+    left:15%;
+}
+
+#frame11{
+    transform: translate(-50%);
+    left: 50%;
+}
+
+#frame12{
+    right:15%;
+}
+
+
+#frame13{
+    right: 50%;
+}
+
+#frame14{
+    transform: translate(82%);
+}
+
+#frame15{
+    right: 83%;
+}
+
+
+#frame17{
+    right: 50%;
+    top: 15%;
+}
+
+#frame18{
+    transform: translate(82%);
+    top: 25%;
+}
+
+#frame19{
+    right: 83%;
+}
+
+#frame20{
+    right: 50%;
+    top: 25%;
+}
+
+#frame21{
+    transform: translate(82%);
+    top: 50%;
+}
+
+#frame22{
+    right: 83%;
+}
+
